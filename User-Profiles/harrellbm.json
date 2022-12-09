@@ -997,7 +997,7 @@
                                                                     },
                                                                     "referenceParent": {
                                                                         "type": "Position Contribution Claim",
-                                                                        "name": "Data Mining Team Positions",
+                                                                        "name": "Data Mining Teams November 2022",
                                                                         "id": "b7524287-5a08-4103-99e4-69d1127a17df"
                                                                     },
                                                                     "referenceParentCombinedNodePath": [
@@ -1026,7 +1026,7 @@
                                                                             "Position Claims Folder"
                                                                         ],
                                                                         [
-                                                                            "Data Mining Team Positions",
+                                                                            "Data Mining Teams November 2022",
                                                                             "Position Contribution Claim"
                                                                         ]
                                                                     ]
@@ -1124,7 +1124,7 @@
                                                                     },
                                                                     "referenceParent": {
                                                                         "type": "Position Contribution Claim",
-                                                                        "name": "Quantum/arborist (QA) Team Positions",
+                                                                        "name": "",
                                                                         "id": "5a0edb3e-0fa7-4167-bc10-ea6d81ec798b"
                                                                     },
                                                                     "referenceParentCombinedNodePath": [
@@ -1153,7 +1153,7 @@
                                                                             "Position Claims Folder"
                                                                         ],
                                                                         [
-                                                                            "Quantum/arborist (QA) Team Positions",
+                                                                            "",
                                                                             "Position Contribution Claim"
                                                                         ]
                                                                     ]
@@ -1338,7 +1338,7 @@
                                                             },
                                                             "referenceParent": {
                                                                 "type": "Position Contribution Claim",
-                                                                "name": "VEX Team Positions",
+                                                                "name": "Signalytic Teams November 2022",
                                                                 "id": "08e1d8af-478d-435f-9ebb-d2c4ed4fbdd1"
                                                             },
                                                             "referenceParentCombinedNodePath": [
@@ -1363,7 +1363,7 @@
                                                                     "Position Claims Folder"
                                                                 ],
                                                                 [
-                                                                    "VEX Team Positions",
+                                                                    "Signalytic Teams November 2022",
                                                                     "Position Contribution Claim"
                                                                 ]
                                                             ]
@@ -1496,7 +1496,7 @@
                                                                     },
                                                                     "referenceParent": {
                                                                         "type": "Position Contribution Claim",
-                                                                        "name": "Signalytic Team Positions",
+                                                                        "name": "Signalytic Teams November 2022",
                                                                         "id": "02839505-3caa-4b8a-8bda-d01a6a7a6984"
                                                                     },
                                                                     "referenceParentCombinedNodePath": [
@@ -1525,7 +1525,7 @@
                                                                             "Position Claims Folder"
                                                                         ],
                                                                         [
-                                                                            "Signalytic Team Positions",
+                                                                            "Signalytic Teams November 2022",
                                                                             "Position Contribution Claim"
                                                                         ]
                                                                     ]
@@ -1837,7 +1837,7 @@
                                                             },
                                                             "referenceParent": {
                                                                 "type": "Position Contribution Claim",
-                                                                "name": "Elves & Fairies Team Positions",
+                                                                "name": "",
                                                                 "id": "1dfaa8d3-154d-4330-8ccb-587739b2cd6a"
                                                             },
                                                             "referenceParentCombinedNodePath": [
@@ -1862,7 +1862,7 @@
                                                                     "Position Claims Folder"
                                                                 ],
                                                                 [
-                                                                    "Elves & Fairies Team Positions",
+                                                                    "",
                                                                     "Position Contribution Claim"
                                                                 ]
                                                             ]
@@ -2849,7 +2849,7 @@
                                                                     },
                                                                     "referenceParent": {
                                                                         "type": "Position Contribution Claim",
-                                                                        "name": "Tiger40 Team Positions",
+                                                                        "name": "Tiger40 Teams November 2022",
                                                                         "id": "4fdb328e-589f-42f1-947a-ed864a07245b"
                                                                     },
                                                                     "referenceParentCombinedNodePath": [
@@ -2878,7 +2878,7 @@
                                                                             "Position Claims Folder"
                                                                         ],
                                                                         [
-                                                                            "Tiger40 Team Positions",
+                                                                            "Tiger40 Teams November 2022",
                                                                             "Position Contribution Claim"
                                                                         ]
                                                                     ]
@@ -2976,7 +2976,7 @@
                                                                     },
                                                                     "referenceParent": {
                                                                         "type": "Position Contribution Claim",
-                                                                        "name": "Turkish Team Positions",
+                                                                        "name": "Turkish Team Teams November 2022",
                                                                         "id": "21caa315-8ab9-4d6e-8eb1-a11faeaae339"
                                                                     },
                                                                     "referenceParentCombinedNodePath": [
@@ -3005,7 +3005,7 @@
                                                                             "Position Claims Folder"
                                                                         ],
                                                                         [
-                                                                            "Turkish Team Positions",
+                                                                            "Turkish Team Teams November 2022",
                                                                             "Position Contribution Claim"
                                                                         ]
                                                                     ]
@@ -3103,7 +3103,7 @@
                                                                     },
                                                                     "referenceParent": {
                                                                         "type": "Position Contribution Claim",
-                                                                        "name": "VEX Team Positions",
+                                                                        "name": "VEX Team Teams November 2022",
                                                                         "id": "793b5ec2-f7b8-4c0a-b8e4-c770dd5eafb9"
                                                                     },
                                                                     "referenceParentCombinedNodePath": [
@@ -3132,7 +3132,7 @@
                                                                             "Position Claims Folder"
                                                                         ],
                                                                         [
-                                                                            "VEX Team Positions",
+                                                                            "VEX Team Teams November 2022",
                                                                             "Position Contribution Claim"
                                                                         ]
                                                                     ]
@@ -3230,7 +3230,7 @@
                                                                     },
                                                                     "referenceParent": {
                                                                         "type": "Position Contribution Claim",
-                                                                        "name": "Translation Team Positions",
+                                                                        "name": "Translations Teams November 2022",
                                                                         "id": "c50db1a3-bc48-4e58-8be6-9df49b3004fa"
                                                                     },
                                                                     "referenceParentCombinedNodePath": [
@@ -3259,7 +3259,7 @@
                                                                             "Position Claims Folder"
                                                                         ],
                                                                         [
-                                                                            "Translation Team Positions",
+                                                                            "Translations Teams November 2022",
                                                                             "Position Contribution Claim"
                                                                         ]
                                                                     ]
@@ -3468,7 +3468,7 @@
                                                     },
                                                     "referenceParent": {
                                                         "type": "Position Claims Folder",
-                                                        "name": "October 2022 Teams Position Class",
+                                                        "name": "November 2022 Teams Position Class",
                                                         "id": "ef161b40-4d1d-4f70-989b-de5e9614667d"
                                                     },
                                                     "referenceParentCombinedNodePath": [
@@ -3489,7 +3489,7 @@
                                                             "Claims Program"
                                                         ],
                                                         [
-                                                            "October 2022 Teams Position Class",
+                                                            "November 2022 Teams Position Class",
                                                             "Position Claims Folder"
                                                         ]
                                                     ]
@@ -3569,7 +3569,7 @@
                                                                     },
                                                                     "referenceParent": {
                                                                         "type": "Position Contribution Claim",
-                                                                        "name": "Quantum/arborist (QA) Team Positions",
+                                                                        "name": "",
                                                                         "id": "c8d2919c-0802-46a4-814a-00eb650f618c"
                                                                     },
                                                                     "referenceParentCombinedNodePath": [
@@ -3598,7 +3598,7 @@
                                                                             "Position Claims Folder"
                                                                         ],
                                                                         [
-                                                                            "Quantum/arborist (QA) Team Positions",
+                                                                            "",
                                                                             "Position Contribution Claim"
                                                                         ]
                                                                     ]
@@ -3632,7 +3632,7 @@
                                                                     },
                                                                     "referenceParent": {
                                                                         "type": "Position Contribution Claim",
-                                                                        "name": "theblockchainarborist Team Positions",
+                                                                        "name": "",
                                                                         "id": "5a2cfef6-4eca-48da-b123-12d8387ec968"
                                                                     },
                                                                     "referenceParentCombinedNodePath": [
@@ -3661,7 +3661,7 @@
                                                                             "Position Claims Folder"
                                                                         ],
                                                                         [
-                                                                            "theblockchainarborist Team Positions",
+                                                                            "",
                                                                             "Position Contribution Claim"
                                                                         ]
                                                                     ]
@@ -7173,7 +7173,7 @@
                         "positionClaimsFolders": [
                             {
                                 "type": "Position Claims Folder",
-                                "name": "Team Positions Position Class",
+                                "name": "Teams November 2022 Position Class",
                                 "config": "{}",
                                 "project": "Governance",
                                 "positionClaimsFolders": [],
@@ -7183,15 +7183,15 @@
                                         "name": "",
                                         "config": "{}",
                                         "project": "Governance",
-                                        "id": "9cd5816c-b7b9-481f-afd2-53521e2e214c",
+                                        "id": "de378713-c34f-46a7-ba57-695f36b37b8b",
                                         "savedPayload": {
                                             "position": {
-                                                "x": 33577.98943931714,
-                                                "y": 38150
+                                                "x": 29032.534893862605,
+                                                "y": 18950
                                             },
                                             "targetPosition": {
-                                                "x": 33277.98943931714,
-                                                "y": 38150
+                                                "x": 28732.534893862605,
+                                                "y": 18950
                                             },
                                             "floatingObject": {
                                                 "isPinned": false,
@@ -7207,7 +7207,7 @@
                                             "referenceParent": {
                                                 "type": "Position",
                                                 "name": "Harrellbm",
-                                                "id": "239d7250-2fb6-4ecf-b1e5-f7d3fcb3d868"
+                                                "id": "9eea93b0-0d2e-4edc-b0d5-9ff9860c7347"
                                             },
                                             "referenceParentCombinedNodePath": [
                                                 [
@@ -7215,11 +7215,7 @@
                                                     "Positions"
                                                 ],
                                                 [
-                                                    "October 2022 Teams",
-                                                    "Position Class"
-                                                ],
-                                                [
-                                                    "Team Positions",
+                                                    "Teams November 2022",
                                                     "Position Class"
                                                 ],
                                                 [
@@ -7233,12 +7229,12 @@
                                 "id": "16033aeb-80a2-46bd-8f15-a2f360468911",
                                 "savedPayload": {
                                     "position": {
-                                        "x": 33277.98943931714,
-                                        "y": 38150
+                                        "x": 28732.534893862605,
+                                        "y": 18950
                                     },
                                     "targetPosition": {
-                                        "x": 32977.98943931714,
-                                        "y": 38150
+                                        "x": 28432.534893862605,
+                                        "y": 18950
                                     },
                                     "floatingObject": {
                                         "isPinned": false,
@@ -7253,8 +7249,8 @@
                                     },
                                     "referenceParent": {
                                         "type": "Position Class",
-                                        "name": "Team Positions",
-                                        "id": "1cb9c635-09cb-49c4-9f95-4bf693eed51a"
+                                        "name": "Teams November 2022",
+                                        "id": "298e8aa8-ad66-4fec-a103-02d20d49cd86"
                                     },
                                     "referenceParentCombinedNodePath": [
                                         [
@@ -7262,11 +7258,7 @@
                                             "Positions"
                                         ],
                                         [
-                                            "October 2022 Teams",
-                                            "Position Class"
-                                        ],
-                                        [
-                                            "Team Positions",
+                                            "Teams November 2022",
                                             "Position Class"
                                         ]
                                     ]
@@ -7277,12 +7269,12 @@
                         "id": "bbdeebc0-b2d4-4b91-8f2b-768631f49094",
                         "savedPayload": {
                             "position": {
-                                "x": 32977.98943931714,
-                                "y": 38150
+                                "x": 28432.534893862605,
+                                "y": 18950
                             },
                             "targetPosition": {
-                                "x": 32677.989439317145,
-                                "y": 38150
+                                "x": 28132.534893862605,
+                                "y": 18950
                             },
                             "floatingObject": {
                                 "isPinned": false,
@@ -7328,12 +7320,12 @@
                     "id": "faeb0cd2-a6f4-4f3e-b528-4d6e8e8097ed",
                     "savedPayload": {
                         "position": {
-                            "x": 32827.98943931715,
-                            "y": 38409.80762113533
+                            "x": 28282.534893862605,
+                            "y": 19209.807621135333
                         },
                         "targetPosition": {
-                            "x": 32677.989439317145,
-                            "y": 38150
+                            "x": 28132.534893862605,
+                            "y": 18950
                         },
                         "floatingObject": {
                             "isPinned": false,
@@ -7361,7 +7353,7 @@
                     "floatingObject": {
                         "isPinned": false,
                         "isFrozen": false,
-                        "isCollapsed": true,
+                        "isCollapsed": false,
                         "angleToParent": 2,
                         "distanceToParent": 3,
                         "arrangementStyle": 0
@@ -7683,14 +7675,14 @@
                     "type": "Social Trading Desktop App",
                     "name": "Social Trading Desktop App #2",
                     "project": "User-Apps",
-                    "id": "ede7e39b-85d7-43e6-96f3-0752de07ac7e",
+                    "id": "1fd2ad1e-db1e-44f5-b556-b50d754a1d11",
                     "config": "{\n    \"codeName\": \"Social-Trading-Desktop-App-2\"\n}",
                     "signingAccount": {
                         "type": "Signing Account",
                         "name": "New Signing Account",
                         "project": "Governance",
-                        "id": "8e8bffa9-7d4e-4421-9b9c-6333839698a5",
-                        "config": "{\"codeName\":\"Social-Trading-Desktop-App-2\",\"signature\":{\"message\":\"harrellbm\",\"messageHash\":\"0xc21e0ff12bbf9bb7af1e4790eaa4a6ebc7b090ce7df26748211b3fb593661a28\",\"v\":\"0x1c\",\"r\":\"0xf90082b6abf38417d257c714033eb280bba15452a3e8531327e8e5d6e9a7ab76\",\"s\":\"0x684e123992c2dc093aaa5ceb2c0aa59e0584dba87a0575914ed5046e4db5e7ff\",\"signature\":\"0xf90082b6abf38417d257c714033eb280bba15452a3e8531327e8e5d6e9a7ab76684e123992c2dc093aaa5ceb2c0aa59e0584dba87a0575914ed5046e4db5e7ff1c\"}}"
+                        "id": "5a2d9414-0ff6-4da7-a34e-f08c6152465c",
+                        "config": "{\"codeName\":\"Social-Trading-Desktop-App-2\",\"signature\":{\"message\":\"harrellbm\",\"messageHash\":\"0xc21e0ff12bbf9bb7af1e4790eaa4a6ebc7b090ce7df26748211b3fb593661a28\",\"v\":\"0x1c\",\"r\":\"0xc5f7a9688887e8f8a16906dbf9896b63a47916880dcd925750d2542d4122730b\",\"s\":\"0x06a08a71d2246ba6b75b302a509f24269a2cb11df36c28ee936e3e3ab8e72f98\",\"signature\":\"0xc5f7a9688887e8f8a16906dbf9896b63a47916880dcd925750d2542d4122730b06a08a71d2246ba6b75b302a509f24269a2cb11df36c28ee936e3e3ab8e72f981c\"}}"
                     }
                 }
             ],
@@ -8141,8 +8133,36 @@
                         "id": "fc6b5293-0209-4f3f-8719-93772d7eda79",
                         "savedPayload": {
                             "position": {
-                                "x": 26447.82475450202,
-                                "y": 18011.31243741542
+                                "x": 26290.11962355887,
+                                "y": 18266.516457121623
+                            },
+                            "targetPosition": {
+                                "x": 26589.98535324392,
+                                "y": 18275.491096972444
+                            },
+                            "floatingObject": {
+                                "isPinned": false,
+                                "isFrozen": false,
+                                "isCollapsed": false,
+                                "angleToParent": 1,
+                                "distanceToParent": 3,
+                                "arrangementStyle": 0
+                            },
+                            "uiObject": {
+                                "isRunning": false
+                            }
+                        }
+                    },
+                    "tradingSignals": {
+                        "type": "Trading Signals",
+                        "name": "New Trading Signals",
+                        "config": "{}",
+                        "project": "Network",
+                        "id": "f365b6ae-224b-42c3-8737-ee5e8dab5a23",
+                        "savedPayload": {
+                            "position": {
+                                "x": 26747.69048418707,
+                                "y": 18020.287077266243
                             },
                             "targetPosition": {
                                 "x": 26589.98535324392,
@@ -8192,13 +8212,41 @@
                     "websocketsNetworkInterface": {
                         "type": "Websockets Network Interface",
                         "name": "New Websockets Network Interface",
-                        "config": "{ \n\"webSocketsPort\": \"18042\"\n}",
+                        "config": "{\n    \"webSocketsPort\": \"18042\"\n}",
                         "project": "Network",
                         "id": "a62caa5e-bd6a-4d5d-984a-821f671eb53c",
                         "savedPayload": {
                             "position": {
-                                "x": 26855.33652989008,
-                                "y": 18034.868724918382
+                                "x": 26722.62628753366,
+                                "y": 18115.51250268519
+                            },
+                            "targetPosition": {
+                                "x": 26939.46474668188,
+                                "y": 18322.83129738125
+                            },
+                            "floatingObject": {
+                                "isPinned": false,
+                                "isFrozen": false,
+                                "isCollapsed": false,
+                                "angleToParent": 1,
+                                "distanceToParent": 3,
+                                "arrangementStyle": 0
+                            },
+                            "uiObject": {
+                                "isRunning": false
+                            }
+                        }
+                    },
+                    "webrtcNetworkInterface": {
+                        "type": "Webrtc Network Interface",
+                        "name": "New Webrtc Network Interface",
+                        "config": "{}",
+                        "project": "Network",
+                        "id": "94b18e44-4fd8-4efd-9613-886b2d08279b",
+                        "savedPayload": {
+                            "position": {
+                                "x": 27146.78354137794,
+                                "y": 18105.992838233033
                             },
                             "targetPosition": {
                                 "x": 26939.46474668188,
@@ -8220,13 +8268,13 @@
                     "httpNetworkInterface": {
                         "type": "Http Network Interface",
                         "name": "New Http Network Interface",
-                        "config": "{ \n\"httpPort\": \"31248\"\n}",
+                        "config": "{\n    \"httpPort\": \"31248\"\n}",
                         "project": "Network",
                         "id": "60d6a94f-dd0d-405e-b8ec-d4402c27b54e",
                         "savedPayload": {
                             "position": {
-                                "x": 27230.91175816974,
-                                "y": 18393.9554106959
+                                "x": 27156.303205830096,
+                                "y": 18530.15009207731
                             },
                             "targetPosition": {
                                 "x": 26939.46474668188,
